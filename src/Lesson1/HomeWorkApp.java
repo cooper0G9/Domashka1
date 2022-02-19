@@ -26,6 +26,7 @@ public class HomeWorkApp {
         }
     }
 
+
     public static void printColor() {
         int value=111;
         if (value<=0){
