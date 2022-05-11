@@ -7,7 +7,7 @@ import java.io.IOException;
 
 import static io.restassured.RestAssured.given;
 
-public class main {
+public class weather {
 
     public static void main(String[] args) throws IOException {
 
